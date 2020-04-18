@@ -1,9 +1,39 @@
-<!DOCTYPE html>
 <html>
+
 <head>
- <title> my webpage</titile>
-   </head>
-   <body>
-Hello, world!
-</body>
-</html>
+
+ <title> My Webpage</title> 
+  </head>
+   
+<body>
+
+	<h1 style="color:blue">SCORE</h1>
+
+<form>
+	<input type ="text" placeholder="student name" name="name">
+	<button>submit</button>
+<TABLE>
+			<tr style="color:red">
+	<th>SR NO.</th>
+				<th>NAME</th> 
+	<th>CLASS</th>
+			<th>PERCENTAGE</th>
+</tr>
+		<tr style="color:yellow">
+	<td>1.</td>
+			<td style="color:red">UDAY</td>
+<td>11</td>
+			<td>98</td>
+	</tr>
+		<tr style="color:green">
+	<td>2.</td>
+				<td>NISHITA</td>
+		<td>5</td>
+				<td>99</td>
+	</TR>
+				</body>
+
+			</html>
+
+
+
